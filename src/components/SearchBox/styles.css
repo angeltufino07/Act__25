@@ -1,0 +1,16 @@
+.InputContainer {
+  margin: 0 auto;
+  width: 300px;
+  padding: 10px;
+  border-radius: 35px;
+  outline: none;
+  border: 2px solid #00bcd4;
+}
+.InputContainer .dataI {
+  width: 50%;
+  outline: none;
+  background-color: #ffffff;
+  padding: 2%;
+  border-radius: 20px;
+  border: 2px solid #ffffff;
+}/*# sourceMappingURL=styles.css.map */
